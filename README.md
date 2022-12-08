@@ -18,7 +18,7 @@ with a key pointing to an array of data, like this:
   "toys": [
     {
       "id": 1,
-      "name": "Woody",
+      "name": "Woody", 
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
       "likes": 8
     },
