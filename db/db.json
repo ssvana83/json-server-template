@@ -20,6 +20,21 @@
       "image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/BuddakanShopsAtCaesarsAtlanticCityNJ.png",
       "content": "We always celebrate our anniversary here! The calamari salad is one of the best dishes I have ever had!",
       "rating": "5 stars"
+    },
+    {
+      "id": 4,
+      "restaurant": "Parc",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHBqj7CglnxofaXc-bNl6WPsMcbdRP9vTdQ&usqp=CAU" ,
+      "content": "French Bistro done right!",
+      "rating": "5 stars"
+    },
+    {
+      "id": 5,
+      "restaurant": "El Vez",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXLDS43xJdH2BFqIBxTSy22n019oSqMuGAA&usqp=CAU" ,
+      "content": "The food is great, but its worth the trip for the jalepeno margarita!",
+      "rating": "5 stars"
+      
     }
   ]
 }
